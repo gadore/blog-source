@@ -1,6 +1,7 @@
 ---
 title: 我Hack了一个蓝牙墨水屏，还挺好玩
 date: 2023-03-18 13:32:29
+postUrl: archives/1701742335478
 cover: /upload/image-igpa-anwy-jvhg.png
 tags:
 - 程序员
