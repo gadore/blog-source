@@ -1,9 +1,11 @@
 ---
 title: 为小米 13 刷入 Andy 大佬的 LineageOS20 类原生系统
-date: 2023-12-09 18:04:04
+date: 2023-05-13 18:04:04
 postUrl: archives/1683956999331
 cover: /upload/Screenshot_20230513-123633_Trebuchet.png
 tags:
+- 程序员
+- 手机
 ---
 
 >前提声明
