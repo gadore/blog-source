@@ -1,0 +1,50 @@
+# - class_name: 框架
+#   flink_style: flexcard
+#   hundredSuffix: ""
+#   link_list:
+#     - name: Hexo
+#       link: https://hexo.io/zh-tw/
+#       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+#       descr: 快速、简单且强大的网站框架
+#     - name: anzhiyu主题
+#       link: https://blog.anheyu.com/
+#       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+#       descr: 生活明朗，万物可爱
+#       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+
+- class_name: 巨佬博客
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: Kevin 周
+      link: https://blog.kevinzhow.com/
+      avatar: https://i.typlog.com/kevinzhow/8317598708_311724.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/resize,m_lfit,w_320/format,webp
+      descr: All about life moments and my products.
+      color: vip
+      tag: 技术
+
+- class_name: 朋友们
+  class_desc: 感谢各位大佬垂青
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: 沉舟侧畔
+      link: https://springwood.me/
+      avatar: https://springwood.me/wp-content/litespeed/avatar/6ab24f1249268c2e9f14060984c702c8.jpg?ver=1701407948
+      descr: ⛵️ 新生的力量，生机勃勃 ⛵️
+      recommend: true
+    - name: 初之音
+      link: https://www.himiku.com/
+      avatar: https://imiku.org/avatar/2fc4cf3560ff5a1cc64ea029896ab235?s=64&r=G
+      descr: LOVE MIKU FOREVER.
+      recommend: true
+    - name: 鄢云峰
+      link: https://yanyunfeng.com/
+      avatar: https://yanyunfeng.com/_nuxt/yyf.ce7e1554.jpeg
+      descr: 对酒当歌，人生几何
+      recommend: true
+    - name: Tokisaki Galaxy
+      link: https://tokisaki.top/
+      avatar: https://tokisaki.top/img/avatar.jpg
+      descr: 
+      recommend: true

@@ -72,7 +72,7 @@ social:
 
 # 作者卡片 状态
 author_status:
-  enable: true
+  enable: false
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
   skills:
@@ -141,7 +141,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+  img: /upload/avatar.jpg
   effect: false
 
 # Disable all banner image
@@ -232,7 +232,7 @@ toc:
   style_simple: false # for post
 
 post_copyright:
-  enable: true
+  enable: false
   decode: false
   author_href:
   location: 上海
@@ -269,7 +269,7 @@ post_edit: # 目前仅可选择一个平台在线编辑
 
 # Related Articles
 related_post:
-  enable: true
+  enable: false
   limit: 6 # Number of posts displayed
   date_type: created # or created or updated 文章日期显示创建日或者更新日
 
