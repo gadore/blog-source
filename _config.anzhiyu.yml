@@ -28,14 +28,9 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: 博客
-          link: https://blog.anheyu.com/
-          icon: /img/favicon.ico
-    - title: 项目
-      item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://image.anheyu.com/favicon.ico
+        - name: 导航
+          link: https://gadore.top
+          icon: /upload/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -779,7 +774,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg # 自定加载动画义头像
+  avatar: /upload/avatar.jpg # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
